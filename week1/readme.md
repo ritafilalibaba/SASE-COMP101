@@ -1,4 +1,4 @@
-# Week 1 — Introduction to Computing & Python
+# Week 1 — Introduction to Computing
 
 ## Resources
 
